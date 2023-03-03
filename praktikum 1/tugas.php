@@ -54,7 +54,7 @@ $ar_nilai = [$mahasiswa1, $mahasiswa2, $mahasiswa3];
                 <td><?= $nilai['tugas'];?></td>
             </tr>
             <?php } ?>
-        </table>
+        </table>    
     </div>
 </body>
 </html>
